@@ -15,6 +15,10 @@ The dashboard tracks key metrics such as attrition, employee distribution, diver
 - Salary distribution across job roles (Box Plot)
 - Interactive filters for department, gender, and tenure
 
+## Dashboard Preview
+
+![HR Analytics Dashboard](images/dashboard.png)
+
 ## Dataset
 
 - Source: [IBM HR Analytics Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
