@@ -34,14 +34,6 @@ The dashboard tracks key metrics such as attrition, employee distribution, diver
 - Tableau Public: https://public.tableau.com/app/profile/rufaida.shafiq/viz/HR-Analytics-Dashboard_17590746836380/Dashboard?publish=yes
 - Local: Open `.twb` file in Tableau Desktop.
 
-## Contributing
-
-Pull requests are welcome. For significant changes, please open an issue to discuss your ideas.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 Developed by Rufaida Shafiq
